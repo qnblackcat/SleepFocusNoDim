@@ -1,5 +1,0 @@
-#!/bin/sh
-case "$1" in
-	remove|purge) killall -9 SpringBoard 2>/dev/null ;;
-esac
-exit 0
