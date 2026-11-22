@@ -1,0 +1,13 @@
+---
+triple:          'arm64e-apple-darwin'
+binary-path:     '/Users/nguyendat/GitClone/SleepFocusNoDim/.theos/obj/arm64e/SleepFocusNoDim.dylib'
+relocations:
+  - { offset: 0x1E, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offset: 0x4A, size: 0x8, addend: 0x0, symName: '__ZL75_logos_orig$_ungrouped$CSRemoteContentInlineViewController$_backgroundStyle', symObjAddr: 0x43C0, symBinAddr: 0xC018, symSize: 0x0 }
+  - { offset: 0x107A, size: 0x8, addend: 0x0, symName: '__ZL74_logos_orig$_ungrouped$CSRemoteContentModalViewController$_backgroundStyle', symObjAddr: 0x43C8, symBinAddr: 0xC020, symSize: 0x0 }
+  - { offset: 0x10D9, size: 0x8, addend: 0x0, symName: __ZL15_logosLocalInitv, symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x88 }
+  - { offset: 0x1150, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$CSRemoteContentInlineViewController$_backgroundStyleP35CSRemoteContentInlineViewControllerP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0xB4 }
+  - { offset: 0x11E8, size: 0x8, addend: 0x0, symName: '__ZL77_logos_method$_ungrouped$CSRemoteContentInlineViewController$_backgroundStyleP35CSRemoteContentInlineViewControllerP13objc_selector', symObjAddr: 0x88, symBinAddr: 0x4088, symSize: 0xB4 }
+  - { offset: 0x12C7, size: 0x8, addend: 0x0, symName: __ZL17isSleepLockScreenP26SBSRemoteContentDefinition, symObjAddr: 0x1F0, symBinAddr: 0x41F0, symSize: 0x5C }
+  - { offset: 0x12F4, size: 0x8, addend: 0x0, symName: '__ZL76_logos_method$_ungrouped$CSRemoteContentModalViewController$_backgroundStyleP34CSRemoteContentModalViewControllerP13objc_selector', symObjAddr: 0x13C, symBinAddr: 0x413C, symSize: 0xB4 }
+...

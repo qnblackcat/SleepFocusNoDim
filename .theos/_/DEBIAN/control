@@ -1,0 +1,10 @@
+Package: com.qn.sleepfocusnodim
+Name: SleepFocusNoDim
+Depends: mobilesubstrate, firmware (>= 15.0)
+Description: Stop the Lock Screen from dimming and blurring while Sleep Focus is on
+Maintainer: Qn <qnblackcat@gmail.com>
+Author: Qn <qnblackcat@gmail.com>
+Section: Tweaks
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Installed-Size: 168
